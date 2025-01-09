@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+# Aora
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<strong>Aora</strong> — це мобільний додаток, який дозволяє користувачам ділитися своїми зображеннями та слідкувати за іншими користувачами, схожий на Pinterest. У додатку ви можете завантажувати фотографії, створювати свої альбоми та відкривати для себе нові цікаві картинки від інших.
 
-## Get started
+---
 
-1. Install dependencies
+## Основні можливості
 
-   ```bash
-   npm install
-   ```
+- Легко завантажуйте свої фотографії та відео, діліться ними з іншими користувачами.
+- Перегляд різних картинок та відео від різних користувчів.
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
+## Технологічний стек
+- **Expo**
+- **AppWrite**
+- **React Native**
+- **TypeScript**
+- **React Navigation**
+- **Expo Document Picker**
+- **Expo Image Picker**
+- **Expo Video**
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Скриншоти
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+![11](https://github.com/user-attachments/assets/5ac5f6da-d7f4-424f-b149-17ae08e04887)
+![222](https://github.com/user-attachments/assets/e60a913e-2660-4545-b184-4b1860799844)
+![333](https://github.com/user-attachments/assets/577d6cc5-7354-4968-8b24-6dc39eec74e4)
+![444](https://github.com/user-attachments/assets/94e032bd-d60b-455a-b167-76471c0ba768)
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
